@@ -1,0 +1,9 @@
+# vidoes
+*.mp4
+
+# zipped folders
+*.zip
+
+#images
+*.jpg
+*.png
