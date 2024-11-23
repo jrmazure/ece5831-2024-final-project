@@ -5,7 +5,6 @@
 
 #
 # Links
-#
 
 ## Video Presentation
 
@@ -21,7 +20,6 @@
 
 # 
 # Github and Drive File Explanation - https://github.com/jrmazure/ece5831-2024-final-project
-#
 
 ## Images Folder on Google Drive
 #### A classification and detection folder exist for each use-case (stop sign detection and flower classification)
