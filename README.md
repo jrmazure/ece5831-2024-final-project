@@ -3,10 +3,9 @@
 
 ## Note that DallE and Roboflow require my personal API key which can be sent on request (they are not in GitHub or Colab). 
 
-
-
-
+#
 # Links
+#
 
 ## Video Presentation
 
@@ -20,10 +19,9 @@
 ## Full .ipynb for Training and Inference
 #### https://drive.google.com/drive/folders/10PB3pAUjPRphave760XDYh47mLhVydeQ?usp=drive_link (google drive for images and full .ipynb for training and inference)
 
-
-
-
+# 
 # Github and Drive File Explanation - https://github.com/jrmazure/ece5831-2024-final-project
+#
 
 ## Images Folder on Google Drive
 #### A classification and detection folder exist for each use-case (stop sign detection and flower classification)
