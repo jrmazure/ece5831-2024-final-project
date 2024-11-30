@@ -9,6 +9,9 @@
 ## Video Presentation
 #### https://www.youtube.com/watch?v=6JrdE4QdRCs
 
+## Video Demo
+#### 
+
 ## Report
 #### https://drive.google.com/file/d/1gPjjgh5AD3-DNYAm3S0UU_0u-821FRaX/view?usp=drive_link
 
@@ -24,6 +27,10 @@
 
 # 
 # Github and Drive File Explanation - https://github.com/jrmazure/ece5831-2024-final-project
+
+## Summary ipynb file - final-project.ipynb
+#### This file shows all python and ipynb files in one for quick viewing and demo pruposes. It can also be found at https://drive.google.com/drive/folders/10PB3pAUjPRphave760XDYh47mLhVydeQ?usp=drive_link with full putput file at (https://drive.google.com/drive/folders/1YL10vvFbnQ0IFBt3qcmYRlPxShJGFYF5?usp=drive_link) 
+
 
 ## Images Folder on Google Drive
 #### A classification and detection folder exist for each use-case (stop sign detection and flower classification)
